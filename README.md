@@ -1,1 +1,1 @@
-## https://raw.githubusercontent.com/sportlive18/All-Playlist/refs/heads/main/combined.m3u
+## https://raw.githubusercontent.com/0ashalive/All/refs/heads/main/combined.m3u
